@@ -1,24 +1,53 @@
-![logo](https://github.com/RAJTripathi3030/RAJTripathi3030/blob/main/Blue%20Geometric%20Illustration%20Graphic%20Designer%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Raj Tripathi</h1>
-<h3 align="center">Hey there, I'm Raj Tripathi - a Computer Science Engineering student with a passion for all things tech. By day, I'm diving deep into Data Structures and Algorithms (DSA), and by night, I'm exploring the vast worlds of Data Science, including Data Analysis (DA), Machine Learning (ML), and Deep Learning (DL). My journey also includes working on cutting-edge Large Language Models (LLMs), bringing innovative ideas to fruition. I thrive on combining my backend skills with frontend development, creating seamless and intuitive user experiences. My technical arsenal includes Python, C++, SQL, React.js, Streamlit, pandas, numpy, matplotlib, Plotly, and seaborn, to name a few. My portfolio is a treasure trove of diverse projects, from building pathfinder visualizers and Gemini API clones to developing interactive data visualization tools. Whether it's crafting complex algorithms or designing captivating user interfaces, I'm your go-to person for all things development. When I'm not coding, you can find me exploring the latest tech trends or honing my problem-solving skills. I'm always eager to learn and grow, and I'm excited about where my passion for Data Science and development will take me next. If you're looking to bring your ideas to life, let's collaborate and create something extraordinary together!</h3>
+# Hi 👋, I'm Raj Tripathi
+### Computer Science Engineering Student | Data Science, ML & DL Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajtripathi3030&label=Profile%20views&color=0e75b6&style=flat" alt="rajtripathi3030" /> </p>
+<div align="center">
+  
+![Banner](https://github.com/RAJTripathi3030/RAJTripathi3030/blob/main/Blue%20Geometric%20Illustration%20Graphic%20Designer%20LinkedIn%20Banner.png)
+  
+**I'm a passionate developer exploring the world of Data Structures, Algorithms, Data Science, and cutting-edge technologies like LLMs!**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-app-raj.streamlit.app/](https://portfolio-app-raj.streamlit.app/)
-
-- 📫 How to reach me **t.raj.ripathi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tripathiraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tripathiraj_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raj tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj tripathi" height="30" width="40" /></a>
-<a href="https://kaggle.com/tripathiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tripathiraj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raj_tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raj_tripathi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F4D03F&center=true&vCenter=true&width=600&lines=CS+Engineering+Student+%7C+Tech+Enthusiast;Data+Structures+%26+Algorithms+Lover;Data+Science+%2B+ML+%2B+DL+Explorer;LLMs+Innovator;Full-Stack+Developer" alt="Typing SVG" />
 </p>
+  
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajtripathi3030&show_icons=true&locale=en&layout=compact" alt="rajtripathi3030" /></p>
+## About Me
+I'm Raj Tripathi, a Computer Science Engineering student with a deep love for technology and innovation. By day, I'm tackling complex data structures and algorithms, and by night, I'm diving into the realms of Data Science, Machine Learning, and Deep Learning. I have hands-on experience with:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajtripathi3030&show_icons=true&locale=en" alt="rajtripathi3030" /></p>
+- **Languages:** Python, C++, SQL, JavaScript, HTML/CSS
+- **Frameworks & Libraries:** React.js, Streamlit, pandas, numpy, matplotlib, Plotly, seaborn, scikit-learn, TensorFlow
+- **Other Skills:** Backend development, Frontend design, Full-stack projects
+
+I love solving challenging problems, building seamless user experiences, and experimenting with new tech trends.
+
+---
+
+## Projects
+Here are a few highlights from my portfolio:
+- **Pathfinder Visualizer:** Visualizing algorithm flows and routes.
+- **Gemini API Clone:** Experimenting with API design and integration.
+- **Interactive Data Visualization Tools:** Crafting dashboards that make data engaging.
+
+Check out more details on my [Portfolio](https://portfolio-app-raj.streamlit.app/).
+
+---
+
+## Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tripathiraj_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj%20tripathi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tripathiraj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/raj_tripathi)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajtripathi3030&show_icons=true&locale=en" alt="Raj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtripathi3030&layout=compact" alt="Top Languages" />
+</p>
